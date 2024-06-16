@@ -106,11 +106,8 @@ Day-06-Profile/
             <li>Clone your forked repository to your local machine using the following command:</li>
         </ul>
         <pre>
-git clone https://github.com/YOUR-USERNAME/Day-06-Profile.git
-        </pre>
-        <ul>
-            <li>Replace <code>YOUR-USERNAME</code> with your GitHub username.</li>
-        </ul>
+git clone https://github.com/Yashi-Singh-1/Day-06-Profile.git
+        </pre
     </li>
     <li><strong>Create a New Branch</strong>:
         <ul>
